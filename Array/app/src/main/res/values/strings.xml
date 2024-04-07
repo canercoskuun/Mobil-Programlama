@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Week3</string>
+    <string-array name="kelimeler">
+        <item>Kelime 1</item>
+        <item>Kelime 2</item>
+        <item>Kelime 3</item>
+        <item>Kelime 4</item>
+        <item>Kelime 5</item>
+    </string-array>
+</resources>
