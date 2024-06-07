@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "C:\\Users\\caner\\.gradle\\daemon\\8.4\\com.example.week102.app-mergeDebugResources-3:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\caner\\.gradle\\daemon\\8.4\\com.example.week102.app-main-6:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "com.example.week102.app-mergeDebugResources-3:/layout/activity_main.xml",
+        "source": "com.example.week102.app-main-6:/layout/activity_main.xml"
+    }
+]
